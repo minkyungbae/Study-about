@@ -1,4 +1,4 @@
-# storage-room
+# Study about
 
 ### 프로그래머스 및 백준을 푼 문제 목록
 
