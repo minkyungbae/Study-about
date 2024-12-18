@@ -1,6 +1,5 @@
 def solution(money):
     answer = []
-    
     coffee = money % 5500
     
     if coffee == 0:
