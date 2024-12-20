@@ -6,4 +6,4 @@ def solution(slice, n):
     else:
         answer = 0
     
-    return answer + n // slice
+    return answer + (n // slice)
