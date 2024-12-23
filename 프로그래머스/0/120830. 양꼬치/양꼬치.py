@@ -3,5 +3,4 @@ def solution(n, k):
     
     if k > 0 and n >= 10:
         price = n*12000 + (k-n//10)*2000
-    
     return price
