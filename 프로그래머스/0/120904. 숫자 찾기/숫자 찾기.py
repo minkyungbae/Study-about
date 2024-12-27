@@ -1,5 +1,5 @@
 def solution(num, k):
-    answer = -1  # 시작을 2로 설정
+    answer = -1  # 시작을 -1로 설정
     str_num = str(num)
     
     for i in str_num:
