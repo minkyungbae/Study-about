@@ -13,4 +13,4 @@ def solution(price):
     else:
         answer = price
         
-    return int(math.trunc(answer))
+    return int(math.trunc(answer))  #.trunc()는 소수점 버림
